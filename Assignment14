@@ -1,0 +1,13 @@
+package acadgild1;
+
+public class Assign14 {
+
+	public static void main(String[] args) {
+		char a;
+		for(int i=65;i<=90;i++){
+			a=(char)i;
+					System.out.println(i+" - "+a);
+		}
+	}
+
+}
